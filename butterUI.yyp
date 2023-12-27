@@ -1,0 +1,41 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "butterUI",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.11.1.129",
+  },
+  "resources": [
+    {"id":{"name":"butterScreen","path":"scripts/butterScreen/butterScreen.yy",},},
+    {"id":{"name":"butterUi","path":"scripts/butterUi/butterUi.yy",},},
+    {"id":{"name":"smoothLerp","path":"scripts/smoothLerp/smoothLerp.yy",},},
+    {"id":{"name":"butterElement","path":"scripts/butterElement/butterElement.yy",},},
+    {"id":{"name":"sprUiElement","path":"sprites/sprUiElement/sprUiElement.yy",},},
+    {"id":{"name":"uiElement","path":"objects/uiElement/uiElement.yy",},},
+    {"id":{"name":"butterText","path":"scripts/butterText/butterText.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType": null,
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}

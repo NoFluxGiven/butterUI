@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"butterScreen","order":2,"path":"scripts/butterScreen/butterScreen.yy",},
+    {"name":"smoothLerp","order":4,"path":"scripts/smoothLerp/smoothLerp.yy",},
+    {"name":"butterElement","order":1,"path":"scripts/butterElement/butterElement.yy",},
+    {"name":"sprUiElement","order":11,"path":"sprites/sprUiElement/sprUiElement.yy",},
+    {"name":"butterText","order":3,"path":"scripts/butterText/butterText.yy",},
+  ],
+}
